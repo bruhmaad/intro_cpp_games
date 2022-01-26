@@ -1,5 +1,5 @@
 # terminal_cpp_game
-Terminal Based Game with multiple puzzles etc. to practice C++.
+Terminal Based Game with multiple puzzles to practice C++.
 
 I am writing this during my introductory C++ class to become comfortable with
 what I am learning. There is an introductory menu, with multiple options:
