@@ -17,12 +17,6 @@ int main() {
 
 
     // Welcome to this program text.
-    cout << "\n\n\n\nWelcome " << userName << "! This is my first C++ program."<< endl;
-    cout << "This was begun Jan 18. 22' for my C++ Class at OSU." << endl;
-    cout << "The course is primarily concerned with bringing students \nbrand new up to speed on programming essentials." << endl;
-    cout << "This makes my time in class quite dull, since I have been \nplaying around with different languages for quite some time." << endl;
-    cout << "To make the most of my time, I am writing this program. Its just me screwing around. \nEnjoy :)" << endl;
-    cout << "\n\n" << endl;
 
     // Menu for the User to choose what they want to do:
     
